@@ -13,9 +13,9 @@ what is active.
 
 - **Hierarchy by weight and size, never by colour.** Headings are black, in the platform's
   sans at 500 with tight tracking; text is 400.
-- **A mono voice for the machinery.** IBM Plex Mono sets callout labels, table headers,
-  tags, property names, buttons, the status bar and code, in small tracked capitals where
-  it labels something.
+- **A mono voice for the machinery.** Tessera Mono sets callout labels, table headers, tags,
+  property names, buttons, the status bar and code, in small tracked capitals where it
+  labels something.
 - **Pastels tag categories.** Each callout type is a flat tile in its own pastel: sky,
   mint, peach, blush, lilac. By night the pastel is mixed low into the page and the label
   takes the pastel.
@@ -51,9 +51,10 @@ Settings → Appearance → Themes.
 
 ## Font
 
-IBM Plex Mono Regular (© 2017 IBM Corp.) is embedded in `theme.css` as base64 WOFF2 under
-the SIL Open Font License 1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). One weight, Latin
-and Cyrillic, for labels, tags, buttons and code.
+Tessera Mono is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License
+1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). It is a Latin and Cyrillic subset of IBM Plex
+Mono (© 2017 IBM Corp.), renamed because a modified copy may not use the original's Reserved
+Font Name. One weight, for labels, tags, buttons and code.
 
 ## License
 
@@ -61,9 +62,9 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-**По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Белая бумага» —
-исследовательская консоль на белой бумаге, и тёмный «Глубокое поле» — та же консоль на
-полосе полуночных чернил. Чёрный текст, прямые углы 4px, моноширинные подписи
-(IBM Plex Mono) и плоские пастельные плитки для колаутов; барвинковый цвет отмечает
-активное. Устанавливается из каталога: Настройки → Оформление → Темы → Настроить →
-Borozdov Tessera → Установить и применить.
+**По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Белая
+бумага» — исследовательская консоль на белой бумаге, и тёмный «Глубокое поле» — та же
+консоль на полосе полуночных чернил. Чёрный текст, прямые углы 4px, моноширинные подписи
+(Tessera Mono) и плоские пастельные плитки для колаутов; барвинковый цвет отмечает активное.
+Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Tessera →
+Установить и применить.

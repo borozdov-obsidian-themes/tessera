@@ -26,8 +26,9 @@ House rules:
 - Colors come from the palette in section 1 of `theme.css`; nothing else holds a color
   literal.
 - White paper, black type, 4px corners everywhere; flat pastel tiles for callouts and a
-  periwinkle for indicators. The only embedded font is IBM Plex Mono (labels, buttons,
-  tags and code): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
+  periwinkle for indicators. The only embedded font is Tessera Mono, a renamed subset of
+  IBM Plex Mono (labels, buttons, tags and code): `fonts/*.woff2` are written into
+  `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

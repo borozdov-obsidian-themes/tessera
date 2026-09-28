@@ -159,7 +159,7 @@ monospace label.</p></div>
 {callout("success", "check", "Done", "Mint for what is finished.")}
 {callout("warning", "triangle-alert", "Heads up", "Peach for what needs a look, blush for real trouble.")}
 <div class="el-blockquote"><blockquote dir="auto"><p>Measure it, then write it down.</p></blockquote></div>
-{table(["Face", "Role"], ["Sans 500", "Title and headings, tracked tight"], ["Sans 400", "Body text"], ["Plex Mono", "Labels, tags and buttons"])}
+{table(["Face", "Role"], ["Sans 500", "Title and headings, tracked tight"], ["Sans 400", "Body text"], ["Tessera Mono", "Labels, tags and buttons"])}
 """
 
 NOTE_RU = f"""
